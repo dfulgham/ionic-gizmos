@@ -1,0 +1,9 @@
+{
+  "name": "ionic-gizmos",
+  "homepage": "https://github.com/dfulgham/ionic-gizmos",
+   "_source": "https://github.com/dfulgham/ionic-gizmos.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/dfulgham/ionic-gizmos.git",
+  "_direct": true,
+    "main": ["ionic/js/ionic.bundle.js","ionic/css/ionic.css", "item-swipe-pane/item-swipe-pane-directive.js"]
+}
